@@ -1,1 +1,0 @@
-# mt5-license-api2
